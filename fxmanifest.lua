@@ -14,5 +14,6 @@ server_scripts {
 }
 
 dependencies {
-    'es_extended'
+    'es_extended',
+    'mythic_notify'
 }
